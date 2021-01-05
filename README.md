@@ -2,7 +2,7 @@
 
 ## **Objective:** Build a [CodePen.io](https://codepen.io/) app that is functionally similar to this: <https://codepen.io/freeCodeCamp/full/XpKrrW>.
 
-## This project was done by [@felipecosta332](https://github.com/felipecosta332) for the [Front End Libraries Certification]() issued by [freeCodeCamp](https://www.freecodecamp.org/). Click [**here**](https://felipecosta332.github.io/build-a-pomodoro-clock/) to access the finished live website.
+## This project was done by [@felipecosta332](https://github.com/felipecosta332) for the [Front End Libraries Certification](https://www.freecodecamp.org/certification/felipecosta332/front-end-libraries) issued by [freeCodeCamp](https://www.freecodecamp.org/). Click [**here**](https://felipecosta332.github.io/build-a-pomodoro-clock/) to access the finished live website.
 
 ### Fulfill the below [user stories](https://en.wikipedia.org/wiki/User_story) and get all of the tests to pass. Give it your own personal style.
 
